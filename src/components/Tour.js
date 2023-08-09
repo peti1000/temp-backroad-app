@@ -1,5 +1,4 @@
 import React from 'react';
-import {tours} from "../data";
 
 function Tour({image, date, title, info, location, duration, cost}) {
     return (
